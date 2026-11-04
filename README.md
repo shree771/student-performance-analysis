@@ -1,11 +1,6 @@
 # STUDENT PERFORMANCE ANALYSIS AND PREDICTION USING EXPLORATORY DATA ANALYSIS AND DEEP LEARNING
 
-**Academic Course:** U21ADP05 – Exploratory Data Analysis and Visualization  
-**Academic Year:** 2026–2027  
-**Institution:** KPR Institute of Engineering and Technology (Autonomous, Affiliated to Anna University)  
-**Department:** Department of Artificial Intelligence and Data Science  
-**Student Name:** Shreenidhi E.  
-**Register Number:** [To be specified by student]  
+
 
 ---
 
@@ -236,26 +231,8 @@ The application will launch automatically in your browser at `http://localhost:8
 - **Model Checkpointing:** Optimal weights saved to `models/best_model.keras`
 
 ---
-
-## 📚 Academic References (IEEE Style)
-
-[1] P. Cortez and A. Silva, "Using data mining to predict secondary school student performance," in *Proceedings of 5th Annual Future Business Technology Conference (FUBUTEC 2008)*, Porto, Portugal, 2008, pp. 5–12.  
-[2] D. Dua and C. Graff, "UCI Machine Learning Repository: Student Performance Data Set," University of California, Irvine, School of Information and Computer Sciences, 2017. [Online]. Available: https://archive.ics.uci.edu/dataset/320/student+performance.  
-[3] M. Abadi et al., "TensorFlow: A system for large-scale machine learning," in *12th USENIX Symposium on Operating Systems Design and Implementation (OSDI 16)*, 2016, pp. 265–283.  
-[4] F. Pedregosa et al., "Scikit-learn: Machine learning in Python," *Journal of Machine Learning Research*, vol. 12, pp. 2825–2830, 2011.  
-[5] C. Romero and S. Ventura, "Educational data mining: A review of the state of the art," *IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews)*, vol. 40, no. 6, pp. 601–618, Nov. 2010.  
+ 
 
 ---
 
-## 📝 GitHub Upload Instructions
 
-To upload this project to your GitHub repository:
-```bash
-git init
-git add .
-git commit -m "Complete implementation of Student Performance Analytics and Deep Learning Prediction"
-git branch -M main
-git remote add origin https://github.com/<your-username>/<your-repo-name>.git
-git push -u origin main
-```
-*Note: `.gitignore` is already pre-configured to exclude large temporary virtual environments and cache directories.*
